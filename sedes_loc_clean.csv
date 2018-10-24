@@ -15,11 +15,11 @@ Justo José de Urquiza 900 - Paraná - Entre Ríos ,"Facultad de Humanidades, Ar
 Jordana 50 - Concepcion Del Uruguay - Entre Ríos ,"Facultad de Humanidades, Artes y Ciencias Sociales. Sede Uruguay",Uruguay,ARG,Entre Rios,Universidad Autónoma de Entre Ríos,64,-32.4845698,-58.2286501
 Av. Donato Álvarez 380 - Córdoba - Córdoba ,Vicerrectorado de Asuntos Académicos,Córdoba,ARG,Cordoba,Universidad Blas Pascal,68,-31.30833,-64.28034
 Olavarría 2464 - Mar Del Plata - Buenos Aires ,Departamento de Administración y Ciencias Sociales - Sede Mar del Plata,General Pueyrredón,ARG,Buenos Aires,Universidad CAECE,74,-38.0116618,-57.5398622
-Avda. José Ignacio de la Roza 1516 - San Juan - San Juan ,Facultad de Ciencias Económicas y Empresariales,San Juan,ARG,San Juan,Universidad Católica de Cuyo,76,-31.5376072,-68.5885474
-Avda. José Ignacio de la Roza 1516 (o) - San Juan - San Juan ,Facultad de Ciencias Químicas y Tecnológicas,San Juan,ARG,San Juan,Universidad Católica de Cuyo,78,-31.5376072,-68.5885474
+Avda. José Ignacio de la Roza 1516 - San Juan - San Juan ,Facultad de Ciencias Económicas y Empresariales,San Juan,ARG,San Juan,Universidad Católica de Cuyo,76,-31.5392657,-68.5885474
+Avda. José Ignacio de la Roza 1516 (o) - San Juan - San Juan ,Facultad de Ciencias Químicas y Tecnológicas,San Juan,ARG,San Juan,Universidad Católica de Cuyo,78,-31.5392657,-68.5885474
 Ruta Pcial 50 6722 - Maipu - Mendoza ,Facultad Don Bosco de Enología y Ciencias de la Alimentación - Sede Rodeo del Medio,Mendoza,ARG,Mendoza,Universidad Católica de Cuyo,80,-32.876335,-68.8350653
 25 e/47 y 48 S/N - La Plata - Buenos Aires ,Facultad de Ciencias Económicas y Sociales,La Plata,ARG,Buenos Aires,Universidad Católica de La Plata,82,-34.8995323,-57.9385431
-11 e/ 51 y 53 972 - La Plata - Buenos Aires ,Facultad de Humanidades,La Plata,ARG,Buenos Aires,Universidad Católica de La Plata,86,-34.95993,-57.81343
+11 e/ 51 y 53 972 - La Plata - Buenos Aires ,Facultad de Humanidades,La Plata,ARG,Buenos Aires,Universidad Católica de La Plata,86,-34.9193462,-57.9546788
 Campo Castañares s/n S/N - Salta - Salta ,Escuela Universitaria de Turismo,Salta,ARG,Salta,Universidad Católica de Salta,88,-65.3940388,-24.7399601
 Campo Castañares s/n - Salta - Salta ,Escuela Universitaria de Turismo - Sistema de Educación a Distancia,Salta,ARG,Salta,Universidad Católica de Salta,94,-65.3940388,-24.7399601
 Eschagüe 7151 - Santa Fe - Santa Fé ,Facultad de Humanidades,Santa Fe,ARG,Santa Fe,Universidad Católica de Santa Fe,96,-31.5738299,-60.7438701
@@ -47,7 +47,7 @@ Machado 854 - Moron - Buenos Aires ,Facultad de Ciencias Aplicadas al Turismo y 
 Larrea 1079 - Ciudad Autonoma de Buenos Aires - Ciudad Autonoma de Buenos Aires ,Facultad de Ciencias Económicas,Ciudad de Buenos Aires,ARG,Ciudad Autonoma De Buenos Aires,Universidad de Palermo,170,-34.5951,-58.40122
 Calle de los Latinos 8555 - Córdoba - Córdoba ,Grado,Córdoba,ARG,Cordoba,Universidad Empresarial Siglo 21,176,-31.33831,-64.21627
 Salta 1968 - Posadas - Misiones ,Departamento de Ciencias Económicas y Empresariales,Posadas,ARG,Misiones,Universidad Gastón Dachary,184,-27.3714972,-55.8959452
-Av de Acceso Este 2245 - San Jose (Dpto. Guaymallen) - Mendoza ,Facultad de Enología y Agroindustrias,Guaymallén,ARG,Mendoza,Universidad Juan Agustín Maza,186,-32.89729,-68.8119967
+Av de Acceso Este 2245 - San Jose (Dpto. Guaymallen) - Mendoza ,Facultad de Enología y Agroindustrias,Guaymallén,ARG,Mendoza,Universidad Juan Agustín Maza,186,-32.8993692,-68.8119967
 Hidalgo 775 - Ciudad Autonoma de Buenos Aires - Ciudad Autonoma de Buenos Aires ,"Facultad de Humanidades, Ciencias Sociales y Empresariales",Ciudad de Buenos Aires,ARG,Ciudad Autonoma De Buenos Aires,Universidad Maimónides,188,-34.61049,-58.44105
 Sarmiento 2037 - Ciudad Autonoma de Buenos Aires - Ciudad Autonoma de Buenos Aires ,"FACULTAD DE TURISMO, EDUCACIÓN FÍSICA Y DEPORTES",Ciudad de Buenos Aires,ARG,Ciudad Autonoma De Buenos Aires,Universidad Metropolitana para la Educación y el Trabajo,192,-34.6059,-58.39574
 España 350 - Avellaneda - Buenos Aires ,Departamento de Ambiente y Turismo,Avellaneda,ARG,Buenos Aires,Universidad Nacional de Avellaneda,194,-34.6628049,-58.3722248
@@ -56,7 +56,7 @@ Avenida Belgrano 300 - San Fernando del Valle de Catamarca - Catamarca ,Facultad
 9 de Julio 22 - Chilecito - La Rioja ,Escuela de Desarrollo Local,Chilecito,ARG,La Rioja,Universidad Nacional de Chilecito,206,-29.17235,-67.49761
 Av. Valparaíso - Cd. Universitaria S/N - Córdoba - Córdoba ,Facultad de Ciencias de la Comunicación,Córdoba,ARG,Cordoba,Universidad Nacional de Córdoba,214,-31.43697,-64.18558
 Pabellón Residencial - C. Universitaria . - Córdoba - Córdoba ,Facultad de Filosofía y Humanidades,Córdoba,ARG,Cordoba,Universidad Nacional de Córdoba,216,-31.40598,-64.20536
-Centro Univ. - Parque Gral. San Martín Sin nro. - Mendoza - Mendoza ,Facultad de Filosofía y Letras,Mendoza,ARG,Mendoza,Universidad Nacional de Cuyo,218,-32.88299,-68.876431
+Centro Univ. - Parque Gral. San Martín Sin nro. - Mendoza - Mendoza ,Facultad de Filosofía y Letras,Mendoza,ARG,Mendoza,Universidad Nacional de Cuyo,218,-32.881753,-68.876431
 Campus Universitario Múltiple-Alem y 25 630 - San Martin - Mendoza ,Facultad de Filosofía y Letras - Delegación Zona Este,San Martín,ARG,Mendoza,Universidad Nacional de Cuyo,226,-33.06729,-68.46847
 Monseñor Tavella 1424 - Concordia - Entre Ríos ,Facultad de Ciencias de la Administración,Concordia,ARG,Entre Rios,Universidad Nacional de Entre Ríos,228,-31.3819795,-58.0221716
 Avenida Gobernador Gutnisky 3200 - Formosa - Formosa ,Facultad de Humanidades,Formosa,ARG,Formosa,Universidad Nacional de Formosa,230,-26.1292902,-58.1494648
@@ -71,7 +71,7 @@ AV. DE LOS MINEROS 1260 - El Turbio - Santa Cruz ,UNIDAD ACADEMICA RIO TURBIO,G�
 Ruta Provincial Nº 1 - Km4 sd - Comodoro Rivadavia - Chubut ,Facultad de Humanidades y Ciencias Sociales - Sede Comodoro Rivadavia,Escalante,ARG,Chubut,Universidad Nacional de la Patagonia San Juan Bosco,288,-45.8657412,-67.5026264
 Rw Gales y Belgrano sn - Trelew - Chubut ,Facultad de Humanidades y Ciencias Sociales - Sede Trelew,Rawson,ARG,Chubut,Universidad Nacional de la Patagonia San Juan Bosco,294,-43.2524,-65.3179
 Boul.Almirante Brown 3051 - Puerto Madryn - Chubut ,Facultad Humanidades y Ciencias Sociales - Sede Puerto Madryn,Biedma,ARG,Chubut,Universidad Nacional de la Patagonia San Juan Bosco,296,-42.7852951,-65.0061527
-6 Nro 777 - La Plata - Buenos Aires ,Facultad de Ciencias Económicas,La Plata,ARG,Buenos Aires,Universidad Nacional de La Plata,298,-35.0474,-58.13752
+6 Nro 777 - La Plata - Buenos Aires ,Facultad de Ciencias Económicas,La Plata,ARG,Buenos Aires,Universidad Nacional de La Plata,298,-34.912504,-57.95283
 48 e/ 6 y 7 s/n - La Plata - Buenos Aires ,Facultad de Humanidades y Ciencias de la Educación,La Plata,ARG,Buenos Aires,Universidad Nacional de La Plata,300,-34.9003139,-57.9668758
 Av. Lavalle S/Nº - Villa Union - La Rioja ,Sede Villa Unión,La Rioja,ARG,La Rioja,Universidad Nacional de La Rioja,308,-29.41208,-66.82413
 Arroyo Seco SN - Tandil - Buenos Aires ,Facultad de Ciencias Humanas,Tandil,ARG,Buenos Aires,Universidad Nacional del Centro de la Provincia de Buenos Aires,310,-37.34123,-59.10922
@@ -110,7 +110,7 @@ Av. Pellegrini 1816 - Rosario - Santa Fé ,Facultad de Arquitectura - Rosario,Ro
 Chacabuco 90 - Ciudad Autonoma de Buenos Aires - Ciudad Autonoma de Buenos Aires ,Facultad de Ciencias de la Comunicación,Ciudad de Buenos Aires,ARG,Ciudad Autonoma De Buenos Aires,Universidad Abierta Interamericana,2,-34.60908,-58.37636
 Av. Pellegrini 1816 - Rosario - Santa Fé ,Facultad de Ciencias de la Comunicación - Rosario,Rosario,ARG,Santa Fe,Universidad Abierta Interamericana,450,-33.0316896,-60.6372831
 Lima 717 - Ciudad Autonoma de Buenos Aires - Ciudad Autonoma de Buenos Aires ,Facultad de Arquitectura y Diseño,Ciudad de Buenos Aires,ARG,Ciudad Autonoma De Buenos Aires,Universidad Argentina de la Empresa,22,-34.617,-58.38156
-Bme.Mitre 1411 - Ciudad Autonoma de Buenos Aires - Ciudad Autonoma de Buenos Aires ,Escuela de Arquitectura,Ciudad de Buenos Aires,ARG,Ciudad Autonoma De Buenos Aires,Universidad Argentina John F. Kennedy,476,-34.55028,-58.50033
+Bme.Mitre 1411 - Ciudad Autonoma de Buenos Aires - Ciudad Autonoma de Buenos Aires ,Escuela de Arquitectura,Ciudad de Buenos Aires,ARG,Ciudad Autonoma De Buenos Aires,Universidad Argentina John F. Kennedy,476,-34.6075986,-58.3889115
 Bartolomé Mitre 1411 - Ciudad Autonoma de Buenos Aires - Ciudad Autonoma de Buenos Aires ,"Facultad de Ciencias Sociales, Jurídicas y Humanas",Ciudad de Buenos Aires,ARG,Ciudad Autonoma De Buenos Aires,Universidad Argentina John F. Kennedy,30,-34.60765,-58.3865
 Olavarría 2464 - Mar Del Plata - Buenos Aires ,Departamento de Sistemas - Sede Mar del Plata,General Pueyrredón,ARG,Buenos Aires,Universidad CAECE,74,-38.0116618,-57.5398622
 Av. Armada Argentina 3555 - Córdoba - Córdoba ,Facultad de Arquitectura,Córdoba,ARG,Cordoba,Universidad Católica de Córdoba,482,-31.4858262,-64.2464424
@@ -151,8 +151,8 @@ Maximo Victoria 55 - San Fernando del Valle de Catamarca - Catamarca ,Facultad d
 Municipio Villa Dolore Avda. San Martín 650 - Villa Dolores - Córdoba ,Centro Regional de Educación Superior-Municipio de Villa Dolores,San Javier,ARG,Cordoba,Universidad Nacional de Córdoba,613,-31.94747,-65.18789
 Obispo Trejo - Centro 294 - Córdoba - Córdoba ,Colegio Nacional de Monserrat,Córdoba,ARG,Cordoba,Universidad Nacional de Córdoba,614,-31.4188232,-64.1867158
 Avenida Vélez Sarsfield 264 - Córdoba - Córdoba ,"Facultad de Arquitectura, Urbanismo y Diseño",Córdoba,ARG,Cordoba,Universidad Nacional de Córdoba,615,-31.4181867,-64.1879543
-Centro Univ. - Parque Gral. San Martín Sin nro. - Mendoza - Mendoza ,Facultad de Artes y Diseño,Mendoza,ARG,Mendoza,Universidad Nacional de Cuyo,218,-32.88299,-68.876431
-Centro Univ. Parque Gral. San Martín Sin nro. - Mendoza - Mendoza ,Facultad de Ingeniería,Mendoza,ARG,Mendoza,Universidad Nacional de Cuyo,621,-32.88299,-68.876431
+Centro Univ. - Parque Gral. San Martín Sin nro. - Mendoza - Mendoza ,Facultad de Artes y Diseño,Mendoza,ARG,Mendoza,Universidad Nacional de Cuyo,218,-32.881753,-68.876431
+Centro Univ. Parque Gral. San Martín Sin nro. - Mendoza - Mendoza ,Facultad de Ingeniería,Mendoza,ARG,Mendoza,Universidad Nacional de Cuyo,621,-32.881753,-68.876431
 Vergara 2222 - Hurlingham - Buenos Aires ,Instituto de Tecnología e Ingeniería,Hurlingham,ARG,Buenos Aires,Universidad Nacional de Hurlingham,623,-34.6164566,-58.6342231
 29 de Septiembre 3901 - Remedios de Escalada - Buenos Aires ,Departamento de Humanidades y Artes,Lanús,ARG,Buenos Aires,Universidad Nacional de Lanús,238,-34.7342286,-58.3901502
 Calle 47 (esq 117) 162 - La Plata - Buenos Aires ,Facultad de Arquitectura y Urbanismo,La Plata,ARG,Buenos Aires,Universidad Nacional de La Plata,628,-34.905,-57.94267
@@ -200,22 +200,22 @@ San Juan 1242 - Gualeguaychu - Entre Ríos ,"Facultad de Humanidades, Artes y Ci
 FELIPE VELAZQUEZ 471 - San Luis - San Luis ,Facultad de Ciencias Económicas y Empresariales - Sede San Luis,Juan Martín de Pueyrredón,ARG,San Luis,Universidad Católica de Cuyo,826,-33.2982675,-66.3161083
 Campo Castañares s/n - Salta - Salta ,Escuela de Educación y Perfeccionamiento Docente,Salta,ARG,Salta,Universidad Católica de Salta,94,-65.3940388,-24.7399601
 Campo Castañares s/n - Salta - Salta ,Escuela Universitaria de Música,Salta,ARG,Salta,Universidad Católica de Salta,94,-65.3940388,-24.7399601
-Hipólito Irigoyen 3238 - Ciudad Autonoma de Buenos Aires - Ciudad Autonoma de Buenos Aires ,Facultad de Psicología,Ciudad de Buenos Aires,ARG,Ciudad Autonoma De Buenos Aires,Universidad de Buenos Aires,845,-34.6727,-58.50476
+Hipólito Irigoyen 3238 - Ciudad Autonoma de Buenos Aires - Ciudad Autonoma de Buenos Aires ,Facultad de Psicología,Ciudad de Buenos Aires,ARG,Ciudad Autonoma De Buenos Aires,Universidad de Buenos Aires,845,-34.6121836,-58.4144971
 Pasaje J M Giuffra 330 - Ciudad Autonoma de Buenos Aires - Ciudad Autonoma de Buenos Aires ,Facultad de Ciencias de la Comunicación,Ciudad de Buenos Aires,ARG,Ciudad Autonoma De Buenos Aires,Universidad del Cine,846,-34.65793,-58.45649
 Pasaje J M Giuffra 330 - Ciudad Autonoma de Buenos Aires - Ciudad Autonoma de Buenos Aires ,Facultad de Cinematografía,Ciudad de Buenos Aires,ARG,Ciudad Autonoma De Buenos Aires,Universidad del Cine,846,-34.65793,-58.45649
 Hipólito Yrigoyen 2441 - Ciudad Autonoma de Buenos Aires - Ciudad Autonoma de Buenos Aires ,Escuela de Arte y Arquitectura,Ciudad de Buenos Aires,ARG,Ciudad Autonoma De Buenos Aires,Universidad del Salvador,877,-34.6094,-58.37772
 Tucumán 1845 - Ciudad Autonoma de Buenos Aires - Ciudad Autonoma de Buenos Aires ,Facultad de Medicina,Ciudad de Buenos Aires,ARG,Ciudad Autonoma De Buenos Aires,Universidad del Salvador,881,-34.60205,-58.39334
 Marcelo T. de Alvear 1335 - Ciudad Autonoma de Buenos Aires - Ciudad Autonoma de Buenos Aires ,Facultad de Psicología y Psicopedagogía,Ciudad de Buenos Aires,ARG,Ciudad Autonoma De Buenos Aires,Universidad del Salvador,882,-34.5970216,-58.3862194
 Mario Bravo 1259 - Ciudad Autonoma de Buenos Aires - Ciudad Autonoma de Buenos Aires ,Facultad de Ciencias Sociales,Ciudad de Buenos Aires,ARG,Ciudad Autonoma De Buenos Aires,Universidad de Palermo,885,-34.595,-58.41478
-Avenida de Acceso Este 2245 - San Jose (Dpto. Guaymallen) - Mendoza ,Facultad de Kinesiología y Fisioterapia,Guaymallén,ARG,Mendoza,Universidad Juan Agustín Maza,900,-32.89729,-68.8119967
-Avenida de Acceso Este 2245 - San Jose (Dpto. Guaymallen) - Mendoza ,Facultad de Periodismo,Guaymallén,ARG,Mendoza,Universidad Juan Agustín Maza,900,-32.89729,-68.8119967
+Avenida de Acceso Este 2245 - San Jose (Dpto. Guaymallen) - Mendoza ,Facultad de Kinesiología y Fisioterapia,Guaymallén,ARG,Mendoza,Universidad Juan Agustín Maza,900,-32.8993692,-68.8119967
+Avenida de Acceso Este 2245 - San Jose (Dpto. Guaymallen) - Mendoza ,Facultad de Periodismo,Guaymallén,ARG,Mendoza,Universidad Juan Agustín Maza,900,-32.8993692,-68.8119967
 Hidalgo 775 - Ciudad Autonoma de Buenos Aires - Ciudad Autonoma de Buenos Aires ,Escuela de Comunicación Multimedial,Ciudad de Buenos Aires,ARG,Ciudad Autonoma De Buenos Aires,Universidad Maimónides,188,-34.61049,-58.44105
 Hidalgo 775 - Ciudad Autonoma de Buenos Aires - Ciudad Autonoma de Buenos Aires ,Facultad de Ciencias de la Salud,Ciudad de Buenos Aires,ARG,Ciudad Autonoma De Buenos Aires,Universidad Maimónides,188,-34.61049,-58.44105
 Sarmiento 2037 - Ciudad Autonoma de Buenos Aires - Ciudad Autonoma de Buenos Aires ,Facultad de Cultura y Comunicación,Ciudad de Buenos Aires,ARG,Ciudad Autonoma De Buenos Aires,Universidad Metropolitana para la Educación y el Trabajo,192,-34.6059,-58.39574
 España 350 - Avellaneda - Buenos Aires ,Departamento de Humanidades y Artes,Avellaneda,ARG,Buenos Aires,Universidad Nacional de Avellaneda,194,-34.6628049,-58.3722248
 "Pabellón México, Ciudad Universitaria - - - Córdoba - Córdoba ",Facultad de Artes,Córdoba,ARG,Cordoba,Universidad Nacional de Córdoba,909,-31.44058,-64.18771
 Dr. Moreno y Fleming Sin nro. - Lavalle - Mendoza ,Facultad de Artes y Diseño - Delegación Lavalle,Lavalle,ARG,Mendoza,Universidad Nacional de Cuyo,940,-32.72243,-68.60138
-Centro Univ. - Parque Gral San Martín Sin nro. - Mendoza - Mendoza ,Facultad de Ciencias Políticas y Sociales,Mendoza,ARG,Mendoza,Universidad Nacional de Cuyo,941,-32.88299,-68.876431
+Centro Univ. - Parque Gral San Martín Sin nro. - Mendoza - Mendoza ,Facultad de Ciencias Políticas y Sociales,Mendoza,ARG,Mendoza,Universidad Nacional de Cuyo,941,-32.881753,-68.876431
 Av. Don Pedro de Mendoza 679 - Ciudad Autonoma de Buenos Aires - Ciudad Autonoma de Buenos Aires ,Área Transdepartamental de Artes Multimediales,Ciudad de Buenos Aires,ARG,Ciudad Autonoma De Buenos Aires,Universidad Nacional de las Artes,978,-34.6293037,-58.3551303
 Bartolomé Mitre 1869 - Ciudad Autonoma de Buenos Aires - Ciudad Autonoma de Buenos Aires ,Área Transdepartamental de Crítica de Artes,Ciudad de Buenos Aires,ARG,Ciudad Autonoma De Buenos Aires,Universidad Nacional de las Artes,638,-34.60806,-58.39301
 Sanchez de Loria 443 - Ciudad Autonoma de Buenos Aires - Ciudad Autonoma de Buenos Aires ,Área transdepartamental de Folklore,Ciudad de Buenos Aires,ARG,Ciudad Autonoma De Buenos Aires,Universidad Nacional de las Artes,693,-34.61474,-58.41285
@@ -251,7 +251,7 @@ Pedernera 275 - Ciudad Autonoma de Buenos Aires - Ciudad Autonoma de Buenos Aire
 Rivadavia 2258 - Ciudad Autonoma de Buenos Aires - Ciudad Autonoma de Buenos Aires ,Facultad de Ingeniería,Ciudad de Buenos Aires,ARG,Ciudad Autonoma De Buenos Aires,Universidad de la Marina Mercante,1291,-34.609725,-58.4006
 Paseo Dr. Descotte 720 - Mendoza - Mendoza ,Facultad de Ciencias de la Salud,Mendoza,ARG,Mendoza,Universidad de Mendoza,1297,-32.891482,-68.8607919
 Machado 854 - Moron - Buenos Aires ,"Facultad de Ciencias Exactas, Químicas y Naturales",Morón,ARG,Buenos Aires,Universidad de Morón,162,-34.6464148,-58.6204543
-Avenida de Acceso Este 2245 - San Jose (Dpto. Guaymallen) - Mendoza ,Facultad de Ciencias Veterinarias y Ambientales,Guaymallén,ARG,Mendoza,Universidad Juan Agustín Maza,900,-32.89729,-68.8119967
+Avenida de Acceso Este 2245 - San Jose (Dpto. Guaymallen) - Mendoza ,Facultad de Ciencias Veterinarias y Ambientales,Guaymallén,ARG,Mendoza,Universidad Juan Agustín Maza,900,-32.8993692,-68.8119967
 Sarmiento 2037 - Ciudad Autonoma de Buenos Aires - Ciudad Autonoma de Buenos Aires ,Facultad de Políticas Públicas y Gestión Ambiental,Ciudad de Buenos Aires,ARG,Ciudad Autonoma De Buenos Aires,Universidad Metropolitana para la Educación y el Trabajo,192,-34.6059,-58.39574
 Av. San Martin 2002 - Florencio Varela - Buenos Aires ,Instituto de Ciencias Sociales y Administración,Florencio Varela,ARG,Buenos Aires,Universidad Nacional Arturo Jauretche,1310,-34.7963106,-58.2786386
 Maximo Victoria 1era Cuadra s/n - San Fernando del Valle de Catamarca - Catamarca ,Facultad de Ciencias Exactas y Naturales,San Fernando del Valle de Catamarca,ARG,Catamarca,Universidad Nacional de Catamarca,1313,-28.45209,-65.78607
@@ -306,7 +306,7 @@ Bartolomé Mitre 1411 - Ciudad Autonoma de Buenos Aires - Ciudad Autonoma de Bue
 Av. Armada Argentina 3555 - Córdoba - Córdoba ,Facultad de Ciencias Químicas,Córdoba,ARG,Cordoba,Universidad Católica de Córdoba,482,-31.4858262,-64.2464424
 Chorroarín 280 - Ciudad Autonoma de Buenos Aires - Ciudad Autonoma de Buenos Aires ,Facultad de Ciencias Veterinarias,Ciudad de Buenos Aires,ARG,Ciudad Autonoma De Buenos Aires,Universidad de Buenos Aires,1430,-34.5962099,-58.4775
 Junín 954 - Ciudad Autonoma de Buenos Aires - Ciudad Autonoma de Buenos Aires ,Facultad de Farmacia y Bioquímica,Ciudad de Buenos Aires,ARG,Ciudad Autonoma De Buenos Aires,Universidad de Buenos Aires,1431,-34.597903,-58.3974584
-Avenida de Acceso Este 2245 - San Jose (Dpto. Guaymallen) - Mendoza ,Facultad de Farmacia y Bioquímica,Guaymallén,ARG,Mendoza,Universidad Juan Agustín Maza,900,-32.89729,-68.8119967
+Avenida de Acceso Este 2245 - San Jose (Dpto. Guaymallen) - Mendoza ,Facultad de Farmacia y Bioquímica,Guaymallén,ARG,Mendoza,Universidad Juan Agustín Maza,900,-32.8993692,-68.8119967
 Av San Martín 2002 - Florencio Varela - Buenos Aires ,Instituto de Ciencias de la Salud,Florencio Varela,ARG,Buenos Aires,Universidad Nacional Arturo Jauretche,1443,-34.7963106,-58.2786386
 Avda.Enrique Barros - Cd.Universitaria S/N - Córdoba - Córdoba ,Facultad de Ciencias Médicas - Escuela de Tecnología Médica,Córdoba,ARG,Cordoba,Universidad Nacional de Córdoba,1445,-31.43622,-64.18805
 Haya de la Torre y Avda. Medina Allende S/N - Córdoba - Córdoba ,Facultad de Ciencias Químicas,Córdoba,ARG,Cordoba,Universidad Nacional de Córdoba,1446,-31.43708,-64.19376
@@ -392,7 +392,7 @@ Candido Pujato 2751 - Santa Fe - Santa Fé ,Facultad de Ciencias Jurídicas y So
 San Juan 434 - Corrientes - Corrientes ,Facultad de Humanidades - Sede Corrientes,Corrientes,ARG,Corrientes,Universidad Nacional del Nordeste,1839,-27.4623693,-58.836405
 Juan XXIII y Ruta Provincial Nº 4 s/n - Lomas De Zamora - Buenos Aires ,Facultad de Ciencias Sociales,Lomas de Zamora,ARG,Buenos Aires,Universidad Nacional de Lomas de Zamora,1377,-34.7418695,-58.3721061
 Don Bosco 3729 - Ciudad Autonoma de Buenos Aires - Ciudad Autonoma de Buenos Aires ,Facultad de Ingeniería - sede CABA,Ciudad de Buenos Aires,ARG,Ciudad Autonoma De Buenos Aires,Universidad Nacional de Lomas de Zamora,1848,-34.61257,-58.41826
-Bme. Mitre 1891 - Moreno - Buenos Aires ,Departamento de Humanidades y Ciencias Sociales,Morón,ARG,Buenos Aires,Universidad Nacional de Moreno,1858,-34.65294,-58.633274
+Bme. Mitre 1891 - Moreno - Buenos Aires ,Departamento de Humanidades y Ciencias Sociales,Morón,ARG,Buenos Aires,Universidad Nacional de Moreno,1858,-34.6511892,-58.7801321
 Riobamba 250 bis - Rosario - Santa Fé ,Facultad de Ciencia Política y Relaciones Internacionales,Rosario,ARG,Santa Fe,Universidad Nacional de Rosario,1866,-32.9651736,-60.6303635
 Avenida Bolivia 5150 - Salta - Salta ,Facultad de Humanidades,Salta,ARG,Salta,Universidad Nacional de Salta,1400,-24.76073,-65.4148699
 WARNES 890 - Tartagal - Salta ,Sede Regional Tartagal,General José de San Martín,ARG,Salta,Universidad Nacional de Salta,1872,-22.5179348,-63.7974624
@@ -430,7 +430,7 @@ Córdoba 374 - Ciudad Autonoma de Buenos Aires - Ciudad Autonoma de Buenos Aires
 Tte. Gral. Juan D. Perón 1818 - Ciudad Autonoma de Buenos Aires - Ciudad Autonoma de Buenos Aires ,Facultad de Ciencias Sociales,Ciudad de Buenos Aires,ARG,Ciudad Autonoma De Buenos Aires,Universidad del Salvador,1989,-34.6068853,-58.394589
 Av. Valparaíso &ndash; Ciudad Univesitaria s/n - Córdoba - Córdoba ,Facultad de Ciencias Sociales,Córdoba,ARG,Cordoba,Universidad Nacional de Córdoba,2004,-31.43697,-64.18558
 Almirante Brown 54 - Paraná - Entre Ríos ,Facultad de Trabajo Social,Paraná,ARG,Entre Rios,Universidad Nacional de Entre Ríos,2006,-31.7378394,-60.5163907
-Florencio Varela 1903 - Villa Luzuriaga - Buenos Aires ,Departamento de Derecho y Ciencia Política,Vicente López,ARG,Buenos Aires,Universidad Nacional de La Matanza,2009,-34.55044,-58.51004
+Florencio Varela 1903 - Villa Luzuriaga - Buenos Aires ,Departamento de Derecho y Ciencia Política,Vicente López,ARG,Buenos Aires,Universidad Nacional de La Matanza,2009,-34.6698856,-58.5647993
 29 de Septiembre 3901 - Remedios de Escalada - Buenos Aires ,Departamento de Planificación y Políticas Públicas,Lanús,ARG,Buenos Aires,Universidad Nacional de Lanús,238,-34.7342286,-58.3901502
 Onas 450 - Ushuaia - Tierra Del Fuego ,"Instituto de Cultura, Sociedad y Estado",Ushuaia,ARG,Tierra Del Fuego,"Universidad Nacional de Tierra del Fuego, Antártida e Islas del Atlántico Sur",416,-54.8072959,-68.3203366
 Av .San Martin 2024 - 3 De Febrero - Buenos Aires ,UNTREF Virtual,3 de Febrero,ARG,Buenos Aires,Universidad Nacional de Tres de Febrero,2031,-34.6433899,-58.54076
@@ -443,7 +443,7 @@ Av. Pellegrini 3314 - Rosario - Santa Fé ,Facultad de Derecho y Ciencias Social
 BELGRANO 89 - Dolores - Buenos Aires ,ANEXO DOLORES,Dolores,ARG,Buenos Aires,Universidad Atlántida Argentina,2065,-36.3168548,-57.6781287
 Cerrito 1250 - Ciudad Autonoma de Buenos Aires - Ciudad Autonoma de Buenos Aires ,Facultad de Derecho,Ciudad de Buenos Aires,ARG,Ciudad Autonoma De Buenos Aires,Universidad Austral,1656,-34.59351,-58.38275
 Av. Armada Argentina 3555 - Córdoba - Córdoba ,Facultad de Derecho y Ciencias Sociales,Córdoba,ARG,Cordoba,Universidad Católica de Córdoba,482,-31.4858262,-64.2464424
-Avda. José Ignacio de la Roza 1516 - San Juan - San Juan ,Facultad de Derecho y Ciencias Sociales,San Juan,ARG,San Juan,Universidad Católica de Cuyo,76,-31.5376072,-68.5885474
+Avda. José Ignacio de la Roza 1516 - San Juan - San Juan ,Facultad de Derecho y Ciencias Sociales,San Juan,ARG,San Juan,Universidad Católica de Cuyo,76,-31.5392657,-68.5885474
 FELIPE VELAZQUEZ 471 - San Luis - San Luis ,Facultad de Derecho y Ciencias Sociales - Sede San Luis,Juan Martín de Pueyrredón,ARG,San Luis,Universidad Católica de Cuyo,826,-33.2982675,-66.3161083
 25 de Mayo 51 - Bernal - Buenos Aires ,Unidad Académica Bernal - Facultad de Derecho y Ciencias Políticas,Quilmes,ARG,Buenos Aires,Universidad Católica de La Plata,489,-34.71012,-58.28246
 Rademacher 3943 - Posadas - Misiones ,Facultad de Derecho y Ciencia Política - Posadas,Posadas,ARG,Misiones,Universidad Católica de Santa Fe,501,-27.3860046,-55.8963764
@@ -477,7 +477,7 @@ Hipólito Irigoyen y Pionero Engwald 0 - Eldorado - Misiones ,Departamento de Ci
 Maximo Victoria 55 - San Fernando del Valle de Catamarca - Catamarca ,Facultad de Derecho,San Fernando del Valle de Catamarca,ARG,Catamarca,Universidad Nacional de Catamarca,612,-28.4598536,-65.7817032
 9 de Julio 22 - Chilecito - La Rioja ,Escuela de Derecho,Chilecito,ARG,La Rioja,Universidad Nacional de Chilecito,206,-29.17235,-67.49761
 Obispo Trejo 242 - Córdoba - Córdoba ,Facultad de Derecho,Córdoba,ARG,Cordoba,Universidad Nacional de Córdoba,2175,-31.4183346,-64.1865079
-Centro Univ.- Parque Gral. San Martín Sin nro. - Mendoza - Mendoza ,Facultad de Derecho,Mendoza,ARG,Mendoza,Universidad Nacional de Cuyo,2178,-32.88299,-68.876431
+Centro Univ.- Parque Gral. San Martín Sin nro. - Mendoza - Mendoza ,Facultad de Derecho,Mendoza,ARG,Mendoza,Universidad Nacional de Cuyo,2178,-32.881753,-68.876431
 Montes de Oca y Einstein Sin nro. - Godoy Cruz - Mendoza ,Instituto Universitario de Seguridad Pública - Sede Central,Godoy Cruz,ARG,Mendoza,Universidad Nacional de Cuyo,2179,-32.91937,-68.86652
 C. Gil 353 - Santa Rosa - La Pampa ,Facultad de Ciencias Económicas y Jurídicas,Santa Rosa,ARG,La Pampa,Universidad Nacional de La Pampa,2181,-36.6205311,-64.28991
 Ciudad Universitaria km4 - Comodoro Rivadavia - Chubut ,Facultad de Ciencias Jurídicas - Sede Comodoro Rivadavia,Escalante,ARG,Chubut,Universidad Nacional de la Patagonia San Juan Bosco,2183,-45.86565,-67.50105
@@ -564,7 +564,7 @@ Machado 854 - Moron - Buenos Aires ,Facultad de Ciencias Económicas y Empresari
 Vito Dumas 284 - Victoria - Buenos Aires ,Departamento de Economia,San Fernando,ARG,Buenos Aires,Universidad de San Andrés,1764,-34.4464719,-58.5312505
 Vito Dumas 284 - Victoria - Buenos Aires ,Escuela de Administración y Negocios,San Fernando,ARG,Buenos Aires,Universidad de San Andrés,1764,-34.4464719,-58.5312505
 Hipólito Irigoyen y Pionero Engwald 0 - Eldorado - Misiones ,Departamento de Ciencias Económicas y Empresariales Eldorado,Eldorado,ARG,Misiones,Universidad Gastón Dachary,2166,-26.41525,-54.61133
-Venezuela 925/31 - Ciudad Autonoma de Buenos Aires - Ciudad Autonoma de Buenos Aires ,Universidad ISALUD - Área Académica,Ciudad de Buenos Aires,ARG,Ciudad Autonoma De Buenos Aires,Universidad ISALUD,2801,-34.57654,-58.43811
+Venezuela 925/31 - Ciudad Autonoma de Buenos Aires - Ciudad Autonoma de Buenos Aires ,Universidad ISALUD - Área Académica,Ciudad de Buenos Aires,ARG,Ciudad Autonoma De Buenos Aires,Universidad ISALUD,2801,-34.6140596,-58.3816285
 Espejo 256 - Mendoza - Mendoza ,Facultad de Ciencias Empresariales,Mendoza,ARG,Mendoza,Universidad Juan Agustín Maza,2803,-32.8889146,-68.8423338
 Sarmiento 2037 - Ciudad Autonoma de Buenos Aires - Ciudad Autonoma de Buenos Aires ,FACULTAD DE DESARROLLO Y GESTIÓN DE LAS ORGANIZACIONES,Ciudad de Buenos Aires,ARG,Ciudad Autonoma De Buenos Aires,Universidad Metropolitana para la Educación y el Trabajo,192,-34.6059,-58.39574
 Sarmiento 2037 - Ciudad Autonoma de Buenos Aires - Ciudad Autonoma de Buenos Aires ,FACULTAD DE TECNOLOGÍA APLICADA,Ciudad de Buenos Aires,ARG,Ciudad Autonoma De Buenos Aires,Universidad Metropolitana para la Educación y el Trabajo,192,-34.6059,-58.39574
@@ -574,11 +574,11 @@ Maestro Quiroga s/n - San Fernando del Valle de Catamarca - Catamarca ,Facultad 
 Municipio de Deán Funes - Rivadavia 373 - Dean Funes - Córdoba ,Centro Regional de Educación Superior-Municipio de Deán Funes,Ischilin,ARG,Cordoba,Universidad Nacional de Córdoba,2836,-30.4267832,-64.3530603
 La Rioja -Bº Alberdi 1450 - Córdoba - Córdoba ,Escuela Superior de Comercio Manuel Belgrano,Córdoba,ARG,Cordoba,Universidad Nacional de Córdoba,2838,-31.4056051,-64.2017327
 Av. Valparaíso - Ciudad Universitaria S/N - Córdoba - Córdoba ,Facultad de Ciencias Económicas,Córdoba,ARG,Cordoba,Universidad Nacional de Córdoba,2841,-31.43697,-64.18558
-Centro Univ. - Parque Gral. San Martín Sin nro. - Mendoza - Mendoza ,Facultad de Ciencias Económicas,Mendoza,ARG,Mendoza,Universidad Nacional de Cuyo,218,-32.88299,-68.876431
+Centro Univ. - Parque Gral. San Martín Sin nro. - Mendoza - Mendoza ,Facultad de Ciencias Económicas,Mendoza,ARG,Mendoza,Universidad Nacional de Cuyo,218,-32.881753,-68.876431
 Bernardo de Irigoyen 375 - General Alvear - Mendoza ,Facultad de Ciencias Económicas - Delegación General Alvear,General Alvear,ARG,Mendoza,Universidad Nacional de Cuyo,1325,-34.9823645,-67.6919724
 Bernardo de Yrigoyen 343 - San Rafael - Mendoza ,Facultad de Ciencias Económicas - Delegación San Rafael,San Rafael,ARG,Mendoza,Universidad Nacional de Cuyo,2848,-34.6131487,-68.3269024
 Municipio de Junín Sin nro. - San Martin - Mendoza ,Facultad de Ciencias Económicas - Delegación Zona Este,Junín,ARG,Mendoza,Universidad Nacional de Cuyo,2850,-33.14709,-68.47796
-Centro Univ. Parque Gral. San Martín Sin nro. - Mendoza - Mendoza ,Instituto Tecnológico Universitario,Mendoza,ARG,Mendoza,Universidad Nacional de Cuyo,621,-32.88299,-68.876431
+Centro Univ. Parque Gral. San Martín Sin nro. - Mendoza - Mendoza ,Instituto Tecnológico Universitario,Mendoza,ARG,Mendoza,Universidad Nacional de Cuyo,621,-32.881753,-68.876431
 Chapeaurouge 163 - General Alvear - Mendoza ,Instituto Tecnológico Universitario (Sede Gral.Alvear),General Alvear,ARG,Mendoza,Universidad Nacional de Cuyo,2853,-34.9798281,-67.6943792
 Almirante Brown 500 - Lujan De Cuyo - Mendoza ,Instituto Tecnológico Universitario (Sede Luján de Cuyo),Luján de Cuyo,ARG,Mendoza,Universidad Nacional de Cuyo,1323,-33.00539,-68.8726687
 José Hernández 227 - Rivadavia - Mendoza ,Instituto Tecnológico Universitario (Sede Rivadavia),Rivadavia,ARG,Mendoza,Universidad Nacional de Cuyo,2856,-33.20153,-68.4653662
@@ -608,7 +608,7 @@ Avenida 29 783 - Mercedes - Buenos Aires ,Facultad de Derecho - sede Mercedes,Me
 San Andrés 800 - Bahia Blanca - Buenos Aires ,Departamento de Ciencias de la Administración,Bahía Blanca,ARG,Buenos Aires,Universidad Nacional del Sur,1573,-38.69548,-62.2542867
 San Andrés 800 - Bahia Blanca - Buenos Aires ,Departamento de Economía,Bahía Blanca,ARG,Buenos Aires,Universidad Nacional del Sur,1573,-38.69548,-62.2542867
 Calle 110 (El Giro de Alcorta) 110 - Chivilcoy - Buenos Aires ,Centro Regional Chivilcoy,Chivilcoy,ARG,Buenos Aires,Universidad Nacional de Luján,3040,-34.9181969,-59.9951355
-Bme. Mitre 1891 - Moreno - Buenos Aires ,Departamento de Economía y Administración,Morón,ARG,Buenos Aires,Universidad Nacional de Moreno,1858,-34.65294,-58.633274
+Bme. Mitre 1891 - Moreno - Buenos Aires ,Departamento de Economía y Administración,Morón,ARG,Buenos Aires,Universidad Nacional de Moreno,1858,-34.6511892,-58.7801321
 Ruta 36 Km 601 - Rio Cuarto - Córdoba ,Facultad de Ciencias Económicas,Río Cuarto,ARG,Cordoba,Universidad Nacional de Río Cuarto,386,-32.4586709,-64.3862245
 Tacuarí 669 - Villa Regina - Río Negro ,Villa Regina - Sede Alto Valle-Valle Medio,General Roca,ARG,Rio Negro,Universidad Nacional de Río Negro,3095,-39.09548,-67.09669
 Balcarce 1240 - Rosario - Santa Fé ,Escuela Superior de Comercio Libertador General San Martín,Rosario,ARG,Santa Fe,Universidad Nacional de Rosario,3097,-33.02305,-60.6298278
@@ -650,7 +650,7 @@ Corrientes y 1º de Mayo -- - Gualeguay - Entre Ríos ,Facultad de Ciencias de l
 Las Violetas 853 - Chajari - Entre Ríos ,Facultad de Ciencia y Tecnología. Sede Federación,Federación,ARG,Entre Rios,Universidad Autónoma de Entre Ríos,3269,-30.75447,-57.98479
 Av. de Mayo 866 - Ciudad Autonoma de Buenos Aires - Ciudad Autonoma de Buenos Aires ,Departamento de Psicología y Ciencias Pedagógicas,Ciudad de Buenos Aires,ARG,Ciudad Autonoma De Buenos Aires,Universidad CAECE,1279,-34.60889,-58.37873
 Obispo Trejo 323 - Córdoba - Córdoba ,Facultad de Educación,Córdoba,ARG,Cordoba,Universidad Católica de Córdoba,3297,-31.4194179,-64.1869724
-José Ignacio de la Roza 1516 - San Juan - San Juan ,Facultad de Educación,San Juan,ARG,San Juan,Universidad Católica de Cuyo,3304,-31.5376072,-68.5885474
+José Ignacio de la Roza 1516 - San Juan - San Juan ,Facultad de Educación,San Juan,ARG,San Juan,Universidad Católica de Cuyo,3304,-31.5392657,-68.5885474
 Alem 235 - Bahia Blanca - Buenos Aires ,Unidad Académica Bahía Blanca - Facultad de Humanidades,Bahía Blanca,ARG,Buenos Aires,Universidad Católica de La Plata,3319,-38.7124213,-62.2618942
 Moreno 1056 - Rosario - Santa Fé ,Unidad Académica Rosario - Facultad de Humanidades,Rosario,ARG,Santa Fe,Universidad Católica de La Plata,3321,-33.1933507,-60.4708966
 Av. Jauretche 1036 - Posadas - Misiones ,Ciencias de la Salud,Posadas,ARG,Misiones,Universidad Católica de las Misiones,3322,-27.3565839,-55.9378418
@@ -678,11 +678,11 @@ Machado 854 - Moron - Buenos Aires ,"Facultad de Filosofía, Ciencias de la Educ
 Vito Dumas 284 - Victoria - Buenos Aires ,Escuela de Educación,San Fernando,ARG,Buenos Aires,Universidad de San Andrés,1764,-34.4464719,-58.5312505
 Entre Ríos 495 - Ciudad Autonoma de Buenos Aires - Ciudad Autonoma de Buenos Aires ,Facultad de Ciencias Humanas y de la Conducta,Ciudad de Buenos Aires,ARG,Ciudad Autonoma De Buenos Aires,Universidad Favaloro,3441,-34.614806,-58.393997
 Hipólito Irigoyen y Pionero Engwald 0 - Eldorado - Misiones ,Departamento de Ciencias de la Salud Eldorado,Eldorado,ARG,Misiones,Universidad Gastón Dachary,2166,-26.41525,-54.61133
-Av. Acceso Este 2245 - San Jose (Dpto. Guaymallen) - Mendoza ,Facultad de Educación,Guaymallén,ARG,Mendoza,Universidad Juan Agustín Maza,3445,-32.89729,-68.8119967
+Av. Acceso Este 2245 - San Jose (Dpto. Guaymallen) - Mendoza ,Facultad de Educación,Guaymallén,ARG,Mendoza,Universidad Juan Agustín Maza,3445,-32.8993692,-68.8119967
 Sarmiento 2037 - Ciudad Autonoma de Buenos Aires - Ciudad Autonoma de Buenos Aires ,Facultad de Pedagogía,Ciudad de Buenos Aires,ARG,Ciudad Autonoma De Buenos Aires,Universidad Metropolitana para la Educación y el Trabajo,192,-34.6059,-58.39574
 España 350 - Avellaneda - Buenos Aires ,Departamento de Salud y Actividad Física,Avellaneda,ARG,Buenos Aires,Universidad Nacional de Avellaneda,194,-34.6628049,-58.3722248
 Maestro Quiroga s/n - San Fernando del Valle de Catamarca - Catamarca ,Facultad de Ciencias de la Salud,San Fernando del Valle de Catamarca,ARG,Catamarca,Universidad Nacional de Catamarca,2832,-28.46444,-65.79873
-Ctro. Univ Parque G.San Martin Sin nro. - Mendoza - Mendoza ,Facultad de Educación,Mendoza,ARG,Mendoza,Universidad Nacional de Cuyo,3481,-32.88299,-68.876431
+Ctro. Univ Parque G.San Martin Sin nro. - Mendoza - Mendoza ,Facultad de Educación,Mendoza,ARG,Mendoza,Universidad Nacional de Cuyo,3481,-32.881753,-68.876431
 Centro de Estudios Tunuyán Sin nro. - Tunuyan - Mendoza ,Facultad de Educación - Delegación Tunuyán,Tunuyán,ARG,Mendoza,Universidad Nacional de Cuyo,3489,-33.57726,-69.0163
 Bernardo de Irigoyen 350 Fac. - San Rafael - Mendoza ,Facultad de Filosofía y Letras - Delegación San Rafael,San Rafael,ARG,Mendoza,Universidad Nacional de Cuyo,3495,-34.61312,-68.3268885
 Vergara 2222 - Hurlingham - Buenos Aires ,Instituto de Educación,Hurlingham,ARG,Buenos Aires,Universidad Nacional de Hurlingham,623,-34.6164566,-58.6342231
@@ -706,9 +706,9 @@ París 532 - Haedo - Buenos Aires ,Facultad Regional Haedo,Morón,ARG,Buenos Air
 Almafuerte 1033 - Paraná - Entre Ríos ,Facultad Regional Paraná,Paraná,ARG,Entre Rios,Universidad Tecnológica Nacional,3717,-31.7500823,-60.5046888
 Lavaise 610 - Santa Fe - Santa Fé ,Facultad Regional Santa Fé,Santa Fe,ARG,Santa Fe,Universidad Tecnológica Nacional,3722,-31.6169399,-60.6760305
 Avenida Bolivia 5150 - Salta - Salta ,Facultad de Ciencias Exactas,Salta,ARG,Salta,Universidad Nacional de Salta,1400,-24.76073,-65.4148699
-Av.Alicia Moreau de 1500 - Ciudad Autonoma de Buenos Aires - Ciudad Autonoma de Buenos Aires ,Facultad de Filosofía y Letras,Ciudad de Buenos Aires,ARG,Ciudad Autonoma De Buenos Aires,Pontificia Universidad Católica Argentina Santa María de los Buenos Aires,3734,-34.6237799,-58.36495
+Av.Alicia Moreau de 1500 - Ciudad Autonoma de Buenos Aires - Ciudad Autonoma de Buenos Aires ,Facultad de Filosofía y Letras,Ciudad de Buenos Aires,ARG,Ciudad Autonoma De Buenos Aires,Pontificia Universidad Católica Argentina Santa María de los Buenos Aires,3734,-34.6155383,-58.3677917
 Obispo Trejo y Sanabria 323 - Córdoba - Córdoba ,Facultad de Filosofía y Humanidades,Córdoba,ARG,Cordoba,Universidad Católica de Córdoba,2455,-31.4194179,-64.1869724
-Avda. José Ignacio de la Roza 1516 - San Juan - San Juan ,Facultad de Filosofía y Humanidades,San Juan,ARG,San Juan,Universidad Católica de Cuyo,76,-31.5376072,-68.5885474
+Avda. José Ignacio de la Roza 1516 - San Juan - San Juan ,Facultad de Filosofía y Humanidades,San Juan,ARG,San Juan,Universidad Católica de Cuyo,76,-31.5392657,-68.5885474
 Echacgüe 7151 - Santa Fe - Santa Fé ,Facultad de Filosofía,Santa Fe,ARG,Santa Fe,Universidad Católica de Santa Fe,3748,-31.5738299,-60.7438701
 Pasaje 5 de Julio 489 - Ciudad Autonoma de Buenos Aires - Ciudad Autonoma de Buenos Aires ,Centro de Estudios de Filosofia y Teologia de la Orden de Predicadores,Ciudad de Buenos Aires,ARG,Ciudad Autonoma De Buenos Aires,Universidad del Norte Santo Tomás de Aquino,3754,-34.61338,-58.37116
 9 de Julio 165 - San Miguel De Tucuman - Tucumán ,Facultad de Humanidades,San Miguel de Tucumán,ARG,Tucuman,Universidad del Norte Santo Tomás de Aquino,146,-26.82355,-65.26626
@@ -783,7 +783,7 @@ Av. Eduardo Madero 399 - Ciudad Autonoma de Buenos Aires - Ciudad Autonoma de Bu
 Av.Eduardo Madero 399 - Ciudad Autonoma de Buenos Aires - Ciudad Autonoma de Buenos Aires ,Departamento de Mecánica Naval,Ciudad de Buenos Aires,ARG,Ciudad Autonoma De Buenos Aires,Instituto Tecnológico de Buenos Aires,4224,-34.60315,-58.36813
 Av.Eduardo Madero 399 - Ciudad Autonoma de Buenos Aires - Ciudad Autonoma de Buenos Aires ,Departamento de Petróleo,Ciudad de Buenos Aires,ARG,Ciudad Autonoma De Buenos Aires,Instituto Tecnológico de Buenos Aires,4224,-34.60315,-58.36813
 Av. Eduardo Madero 399 - Ciudad Autonoma de Buenos Aires - Ciudad Autonoma de Buenos Aires ,Departamento de Química,Ciudad de Buenos Aires,ARG,Ciudad Autonoma De Buenos Aires,Instituto Tecnológico de Buenos Aires,2258,-34.60315,-58.36813
-Avenida de Acceso Este 2245 - San Jose (Dpto. Guaymallen) - Mendoza ,Facultad de Ingeniería,Guaymallén,ARG,Mendoza,Universidad Juan Agustín Maza,900,-32.89729,-68.8119967
+Avenida de Acceso Este 2245 - San Jose (Dpto. Guaymallen) - Mendoza ,Facultad de Ingeniería,Guaymallén,ARG,Mendoza,Universidad Juan Agustín Maza,900,-32.8993692,-68.8119967
 Av.12 de Julio y Rahue sn - Zapala - Neuquén ,Asentamiento Universitario Zapala,Zapala,ARG,Neuquen,Universidad Nacional del Comahue,4720,-38.89566,-70.07695
 Belgrano 98 - Barrancas - Neuquén ,Módulo Chos Malal - Facultad de Ingeniería,Pehuenches,ARG,Neuquen,Universidad Nacional del Comahue,4728,-36.82031,-69.91521
 Córdoba 1055 - Merlo - Buenos Aires ,Escuela de Ingeniería,Merlo,ARG,Buenos Aires,Universidad Nacional del Oeste,4426,-34.6644588,-58.7338929
@@ -807,7 +807,7 @@ Av. Pellegrini 1816 - Rosario - Santa Fé ,Facultad de Medicina y Ciencias de la
 25 de Mayo 99 - Libertador General San Martín - Entre Ríos ,Facultad de Ciencias de la Salud,Diamante,ARG,Entre Rios,Universidad Adventista del Plata,1641,-32.0760348,-60.464128
 Juan Domingo Perón 1500 -ex - Pilar - Buenos Aires ,Facultad de Ciencias Biomédicas,Pilar,ARG,Buenos Aires,Universidad Austral,5312,-34.4556288,-58.772465
 Jacinto Ríos 571 - Córdoba - Córdoba ,Facultad de Medicina,Córdoba,ARG,Cordoba,Universidad Católica de Córdoba,5313,-31.4099099,-64.167393
-Jose Ig. de la Roza 1516 oes - San Juan - San Juan ,Facultad de Ciencias Médicas,San Juan,ARG,San Juan,Universidad Católica de Cuyo,5314,-31.5376072,-68.5885474
+Jose Ig. de la Roza 1516 oes - San Juan - San Juan ,Facultad de Ciencias Médicas,San Juan,ARG,San Juan,Universidad Católica de Cuyo,5314,-31.5392657,-68.5885474
 Felipe Velazquez 471 - San Luis - San Luis ,Facultad de Ciencias Médicas - Sede San Luis,Juan Martín de Pueyrredón,ARG,San Luis,Universidad Católica de Cuyo,2464,-33.2982675,-66.3161083
 Echagüe 7151 - Santa Fe - Santa Fé ,Facultad de Ciencias de la Salud,Santa Fe,ARG,Santa Fe,Universidad Católica de Santa Fe,497,-31.6071348,-60.6708799
 Paraguay 2155 - Ciudad Autonoma de Buenos Aires - Ciudad Autonoma de Buenos Aires ,Facultad de Medicina,Ciudad de Buenos Aires,ARG,Ciudad Autonoma De Buenos Aires,Universidad de Buenos Aires,5319,-34.5984986,-58.3983601
@@ -818,8 +818,8 @@ Machado 854 - Moron - Buenos Aires ,Facultad de Medicina,Morón,ARG,Buenos Aires
 24 de Septiembre 476 - San Miguel De Tucuman - Tucumán ,Instituto de Salud y Calidad de Vida,San Miguel de Tucumán,ARG,Tucuman,Universidad de San Pablo T,595,-26.8310559,-65.204093
 Solís 453 - Ciudad Autonoma de Buenos Aires - Ciudad Autonoma de Buenos Aires ,Facultad de Ciencias Médicas,Ciudad de Buenos Aires,ARG,Ciudad Autonoma De Buenos Aires,Universidad Favaloro,5329,-34.61436,-58.39038
 Pabellón Perú - Ciudad Universitaria S/N - Córdoba - Córdoba ,Facultad de Ciencias Médicas,Córdoba,ARG,Cordoba,Universidad Nacional de Córdoba,5336,-31.44058,-64.18771
-Centro Univ. - Parque Gral. San Martín Sin nro. - Mendoza - Mendoza ,Facultad de Ciencias Médicas,Mendoza,ARG,Mendoza,Universidad Nacional de Cuyo,218,-32.88299,-68.876431
-Florencio Varela 1903 - Villa Luzuriaga - Buenos Aires ,Departamento de Ciencias de la Salud,Vicente López,ARG,Buenos Aires,Universidad Nacional de La Matanza,2009,-34.55044,-58.51004
+Centro Univ. - Parque Gral. San Martín Sin nro. - Mendoza - Mendoza ,Facultad de Ciencias Médicas,Mendoza,ARG,Mendoza,Universidad Nacional de Cuyo,218,-32.881753,-68.876431
+Florencio Varela 1903 - Villa Luzuriaga - Buenos Aires ,Departamento de Ciencias de la Salud,Vicente López,ARG,Buenos Aires,Universidad Nacional de La Matanza,2009,-34.6698856,-58.5647993
 Calle 60 y 120 - - La Plata - Buenos Aires ,Escuela Universitaria de Recursos Humanos del Equipo de Salud,La Plata,ARG,Buenos Aires,Universidad Nacional de La Plata,5341,-34.9097438,-57.9305744
 60 y 118 - - La Plata - Buenos Aires ,Facultad de Ciencias Médicas,La Plata,ARG,Buenos Aires,Universidad Nacional de La Plata,1359,-34.892548,-57.956792
 Av. Pringles 4375 - Olavarria - Buenos Aires ,Escuela Superior de Ciencias de la Salud,Olavarría,ARG,Buenos Aires,Universidad Nacional del Centro de la Provincia de Buenos Aires,5344,-36.8873895,-60.3041807
@@ -836,7 +836,7 @@ Riobamba 750 - Rosario - Santa Fé ,Escuela de Odontología,Rosario,ARG,Santa Fe
 Pellegrini 790 - Salta - Salta ,Escuela Universitaria en Ciencias de la Salud,Salta,ARG,Salta,Universidad Católica de Salta,3978,-24.7993558,-65.416152
 MarceloT.de Alvear 2142 - Ciudad Autonoma de Buenos Aires - Ciudad Autonoma de Buenos Aires ,Facultad de Odontología,Ciudad de Buenos Aires,ARG,Ciudad Autonoma De Buenos Aires,Universidad de Buenos Aires,5375,-34.597186,-58.3981163
 Haya de la Torre - Pabellon Argentina S/N - Córdoba - Córdoba ,Facultad de Odontología,Córdoba,ARG,Cordoba,Universidad Nacional de Córdoba,5383,-31.43708,-64.19376
-Centro Univ. Parque Gral. San Martín Sin nro. - Mendoza - Mendoza ,Facultad de Odontología,Mendoza,ARG,Mendoza,Universidad Nacional de Cuyo,621,-32.88299,-68.876431
+Centro Univ. Parque Gral. San Martín Sin nro. - Mendoza - Mendoza ,Facultad de Odontología,Mendoza,ARG,Mendoza,Universidad Nacional de Cuyo,621,-32.881753,-68.876431
 1 y 50 - - La Plata - Buenos Aires ,Facultad de Odontología,La Plata,ARG,Buenos Aires,Universidad Nacional de La Plata,5387,-34.9016396,-57.9353
 Santa Fe 3160 - Rosario - Santa Fé ,Facultad de Odontología,Rosario,ARG,Santa Fe,Universidad Nacional de Rosario,5394,-32.940024,-60.666016
 Av. Benjamin Araoz 800 - San Miguel De Tucuman - Tucumán ,Facultad de Odontología,San Miguel de Tucumán,ARG,Tucuman,Universidad Nacional de Tucumán,428,-26.8346523,-65.1861108
@@ -844,7 +844,7 @@ Bulnes esquina Guiraldes - Merlo - Buenos Aires ,Escuela de Electrónica de Defe
 Antartida Argentina 1535 - Ciudad Autonoma de Buenos Aires - Ciudad Autonoma de Buenos Aires ,Unidad Académica Escuela Nacional de Nautica,Ciudad de Buenos Aires,ARG,Ciudad Autonoma De Buenos Aires,Instituto Universitario Naval,5400,-34.582313,-58.373947
 Calle 508 881 - Quequen - Buenos Aires ,Unidad de Enseñanza Universitaria Quequén,Necochea,ARG,Buenos Aires,Universidad Nacional del Centro de la Provincia de Buenos Aires,5420,-38.5721599,-58.69204
 Corvalan 3698 - Ciudad Autonoma de Buenos Aires - Ciudad Autonoma de Buenos Aires ,Escuela de Cadetes Comisario General Juan Ángel Pirker,Ciudad de Buenos Aires,ARG,Ciudad Autonoma De Buenos Aires,Instituto Universitario de la Policía Federal Argentina,5438,-34.6714685,-58.467795
-Avda. José Ignacio de la Roza 1516 (o) - San Juan - San Juan ,Escuela de Seguridad,San Juan,ARG,San Juan,Universidad Católica de Cuyo,78,-31.5376072,-68.5885474
+Avda. José Ignacio de la Roza 1516 (o) - San Juan - San Juan ,Escuela de Seguridad,San Juan,ARG,San Juan,Universidad Católica de Cuyo,78,-31.5392657,-68.5885474
 Calle 25 de Mayo 597 - Junin - Mendoza ,Instituto Universitario de Seguridad Pública - Delegación Junín,Mendoza,ARG,Mendoza,Universidad Nacional de Cuyo,5477,-32.895022,-68.8485872
 Coronel Suarez 900 - San Rafael - Mendoza ,Instituto Universitario de Seguridad Pública - Delegación San Rafael,San Rafael,ARG,Mendoza,Universidad Nacional de Cuyo,5478,-34.6137264,-68.3415502
 Ejército de Los Andes y Bruno Villegas Sin nro. - San Carlos - Mendoza ,Instituto Universitario de Seguridad Pública - Sede Valle de Uco,San Carlos,ARG,Mendoza,Universidad Nacional de Cuyo,5482,-33.7726,-69.04057
@@ -862,7 +862,7 @@ Saavedra 472 - Rafaela - Santa Fé ,Facultad de Ciencias de la Salud - Rafaela,C
 Villanueva 1324 - Ciudad Autonoma de Buenos Aires - Ciudad Autonoma de Buenos Aires ,Facultad de Ciencias de la Salud,Ciudad de Buenos Aires,ARG,Ciudad Autonoma De Buenos Aires,Universidad de Belgrano,1281,-34.5654899,-58.44267
 Av. Corrientes 1723 - Ciudad Autonoma de Buenos Aires - Ciudad Autonoma de Buenos Aires ,Facultad de Ciencias Humanas,Ciudad de Buenos Aires,ARG,Ciudad Autonoma De Buenos Aires,Universidad del Museo Social Argentino,1741,-34.6044,-58.39129
 Salta 1968 - Posadas - Misiones ,Departamento de Ciencias de la Salud Posadas,Posadas,ARG,Misiones,Universidad Gastón Dachary,184,-27.3714972,-55.8959452
-Avenida de Acceso Este 2245 - San Jose (Dpto. Guaymallen) - Mendoza ,Facultad de Ciencias de la Nutrición,Guaymallén,ARG,Mendoza,Universidad Juan Agustín Maza,900,-32.89729,-68.8119967
+Avenida de Acceso Este 2245 - San Jose (Dpto. Guaymallen) - Mendoza ,Facultad de Ciencias de la Nutrición,Guaymallén,ARG,Mendoza,Universidad Juan Agustín Maza,900,-32.8993692,-68.8119967
 9 de Julio 22 - Chilecito - La Rioja ,Escuela de Ciencias de la Salud,Chilecito,ARG,La Rioja,Universidad Nacional de Chilecito,206,-29.17235,-67.49761
 Av. Haya de la Torre - Cd. Universitaria S/N - Córdoba - Córdoba ,Facultad de Ciencias Médicas - Escuela de Enfermería,Córdoba,ARG,Cordoba,Universidad Nacional de Córdoba,5732,-31.4383,-64.18923
 Avda. Enrique Barros - Cd.Universitaria S/N - Córdoba - Córdoba ,Facultad de Ciencias Médicas - Escuela de Fonoaudiología,Córdoba,ARG,Cordoba,Universidad Nacional de Córdoba,5736,-31.43622,-64.18805
@@ -889,7 +889,7 @@ General Savio S/N - Aguilares - Tucumán ,Instituto Universitario Multidisciplin
 Riobamba 750 - Rosario - Santa Fé ,Escuela de Psicología,Rosario,ARG,Santa Fe,Instituto Universitario Italiano de Rosario,5366,-32.9638795,-60.6376063
 ECHAGUE 7151 - Santa Fe - Santa Fé ,Facultad de Psicología,Santa Fe,ARG,Santa Fe,Universidad Católica de Santa Fe,5924,-31.6071348,-60.6708799
 Avda.Enrique Barros Esq.Enferm.Gordillo S/N - Córdoba - Córdoba ,Facultad de Psicología,Córdoba,ARG,Cordoba,Universidad Nacional de Córdoba,5965,-31.43622,-64.18805
-51 entre 123 y 124 - - Ensenada - Buenos Aires ,Facultad de Psicología,Ensenada,ARG,Buenos Aires,Universidad Nacional de La Plata,5969,-34.8843448,-57.9549852
+51 entre 123 y 124 - - Ensenada - Buenos Aires ,Facultad de Psicología,Ensenada,ARG,Buenos Aires,Universidad Nacional de La Plata,5969,-34.900614,-57.9345815
 Avenida Calixto Calderón 424 - Chivilcoy - Buenos Aires ,"Facultad de Psicología, Sede Chivilcoy",Chivilcoy,ARG,Buenos Aires,Universidad Nacional de La Plata,5971,-34.9089043,-60.0328631
 Funes (Complejo Universitario) 3280 - Mar Del Plata - Buenos Aires ,Facultad de Psicología,General Pueyrredón,ARG,Buenos Aires,Universidad Nacional de Mar del Plata,5973,-38.0258212,-57.6199549
 Riobamba 250 bis - Rosario - Santa Fé ,Facultad de Psicología,Rosario,ARG,Santa Fe,Universidad Nacional de Rosario,1866,-32.9651736,-60.6303635
