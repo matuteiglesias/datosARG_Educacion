@@ -1,61 +1,61 @@
-,Institución,Otras Ciencias Sociales,Otras Ciencias Sociales,Otras Ciencias Sociales,Otras Ciencias Sociales,-,-,"Sociología, Antropología y Servicio Social","Sociología, Antropología y Servicio Social","Sociología, Antropología y Servicio Social",-
-0,-,EST,NI,RE,EGRE,EGRE,,EST,NI,RE,EGRE
-1,Total de las instituciones,8.322,2.753,5.569,558,998,,45.554,10.726,34.828,1.904
-2,Total Universidades Nacionales,3.991,1.244,2.747,218,847,,45.289,10.682,34.607,1.882
-3,Arturo Jauretche,163,106,57,-,-,,-,-,-,-
-4,Avellaneda,-,-,-,-,-,-,297,266,31,0
-5,Buenos Aires,220,55,165,7,263,,11.104,1.435,9.669,417
-6,Catamarca,258,53,205,0,-,-,499,114,385,18
-7,Centro de la PBA,-,-,-,-,23,,547,110,437,7
-8,Chaco Austral,-,-,-,-,-,-,-,-,-,-
-9,Chilecito,-,-,-,-,-,-,-,-,-,-
-10,Comahue,-,-,-,-,-,-,845,244,601,47
-11,Cuyo,644,172,472,118,-,-,1.634,337,1.297,84
-12,Córdoba,-,-,-,-,49,,2.889,877,2.012,166
-13,Entre Ríos,-,-,-,-,-,-,495,110,385,25
-14,Formosa,-,-,-,-,-,-,-,-,-,-
-15,Gral. Sarmiento,-,-,-,-,-,-,51,0,51,9
-16,José C. Paz (1),-,-,-,-,-,-,534,534,...,-
-17,Jujuy,-,-,-,-,-,-,423,76,347,16
-18,La Matanza,-,-,-,-,311,,845,90,755,82
-19,La Pampa,-,-,-,-,-,-,-,-,-,-
-20,La Plata,-,-,-,-,-,-,3.796,860,2.936,156
-21,La Rioja,469,101,368,7,-,-,517,113,404,32
-22,Lanús,638,159,479,25,-,-,1.148,268,880,26
-23,Litoral,0,0,0,0,4,,862,401,461,4
-24,Lomas de Zamora,25,25,0,0,138,,1.631,273,1.358,86
-25,Luján,-,-,-,-,-,-,2.401,515,1.886,228
-26,Mar del Plata,-,-,-,-,-,-,1.209,256,953,31
-27,Misiones,-,-,-,-,-,-,2.632,817,1.815,79
-28,Moreno,-,-,-,-,0,,697,274,423,0
-29,Nordeste,837,212,625,39,59,,-,-,-,-
-30,Noroeste de la PBA,-,-,-,-,-,-,-,-,-,-
-31,Oeste,-,-,-,-,-,-,-,-,-,-
-32,Patagonia Austral,-,-,-,-,-,-,701,330,371,0
-33,Patagonia S. J. Bosco,-,-,-,-,-,-,411,66,345,7
-34,Quilmes,-,-,-,-,-,-,1.425,397,1.028,62
-35,Río Cuarto,-,-,-,-,-,-,-,-,-,-
-36,Río Negro,411,176,235,8,-,-,226,80,146,1
-37,Rosario,70,26,44,8,-,-,1.971,432,1.539,119
-38,Salta,-,-,-,-,-,-,274,51,223,7
-39,San Juan,-,-,-,-,-,-,1.082,179,903,32
-40,San Luis,-,-,-,-,-,-,206,34,172,13
-41,San Martín,-,-,-,-,-,-,677,193,484,16
-42,Santiago del Estero,-,-,-,-,-,-,800,155,645,47
-43,Sur,-,-,-,-,-,-,-,-,-,-
-44,Tecnológica Nacional,-,-,-,-,-,-,-,-,-,-
-45,Tierra del Fuego,-,-,-,-,-,-,82,82,-,-
-46,Tres de Febrero,256,159,97,6,-,-,-,-,-,-
-47,Tucumán,-,-,-,-,-,-,1.849,533,1.316,23
-48,Villa María,-,-,-,-,-,-,529,180,349,42
-49,Villa Mercedes,-,-,-,-,-,-,-,-,-,-
-50,Total Institutos Universitarios,2.501,1.008,1.493,268,151,,62,0,62,17
-51,Aeronáutico,-,-,-,-,151,,-,-,-,-
-52,Instituto Univ. del Ejército,-,-,-,-,-,-,-,-,-,-
-53,Gendarmería,1.056,347,709,168,-,-,-,-,-,-
-54,IUNA,-,-,-,-,-,-,-,-,-,-
-55,Naval,-,-,-,-,-,-,-,-,-,-
-56,Policía Federal Argentina,1.445,661,784,100,-,-,62,0,62,17
-57,Seguridad Marítima,-,-,-,-,-,-,-,-,-,-
-58,Total Universidad Provincial,1.830,501,1.329,72,-,-,203,44,159,5
-59,Autónoma de Entre Ríos,1.830,501,1.329,72,-,-,203,44,159,5
+,Institución,Otras Ciencias Sociales,Otras Ciencias Sociales,Otras Ciencias Sociales,Otras Ciencias Sociales,Relaciones Institucionales y Humanas,Relaciones Institucionales y Humanas,Relaciones Institucionales y Humanas,-,"Sociología, Antropología y Servicio Social","Sociología, Antropología y Servicio Social","Sociología, Antropología y Servicio Social",-
+0,-,EST,NI,RE,EGRE,EST,NI,RE,EGRE,EST,NI,RE,EGRE
+1,Total de las instituciones,8.322,2.753,5.569,558,17.388,3.238,14.150,998,45.554,10.726,34.828,1904
+2,Total Universidades Nacionales,3.991,1.244,2.747,218,15.910,3.037,12.873,847,45.289,10.682,34.607,1882
+3,Arturo Jauretche,163,106,57,-,692,297,395,-,-,-,-,-
+4,Avellaneda,-,-,-,-,-,-,-,-,297,266,31,0
+5,Buenos Aires,220,55,165,7,7.072,1.308,5.764,263,11.104,1.435,9.669,417
+6,Catamarca,258,53,205,0,-,-,-,-,499,114,385,18
+7,Centro de la PBA,-,-,-,-,71,0,71,23,547,110,437,7
+8,Chaco Austral,-,-,-,-,-,-,-,-,-,-,-,-
+9,Chilecito,-,-,-,-,-,-,-,-,-,-,-,-
+10,Comahue,-,-,-,-,-,-,-,-,845,244,601,47
+11,Cuyo,644,172,472,118,-,-,-,-,1.634,337,1.297,84
+12,Córdoba,-,-,-,-,562,244,318,49,2.889,877,2.012,166
+13,Entre Ríos,-,-,-,-,-,-,-,-,495,110,385,25
+14,Formosa,-,-,-,-,-,-,-,-,-,-,-,-
+15,Gral. Sarmiento,-,-,-,-,-,-,-,-,51,0,51,9
+16,José C. Paz (1),-,-,-,-,-,-,-,-,534,534,...,-
+17,Jujuy,-,-,-,-,-,-,-,-,423,76,347,16
+18,La Matanza,-,-,-,-,3.764,385,3.379,311,845,90,755,82
+19,La Pampa,-,-,-,-,-,-,-,-,-,-,-,-
+20,La Plata,-,-,-,-,-,-,-,-,3.796,860,2.936,156
+21,La Rioja,469,101,368,7,-,-,-,-,517,113,404,32
+22,Lanús,638,159,479,25,-,-,-,-,1.148,268,880,26
+23,Litoral,0,0,0,0,16,0,16,4,862,401,461,4
+24,Lomas de Zamora,25,25,0,0,2.421,482,1.939,138,1.631,273,1.358,86
+25,Luján,-,-,-,-,-,-,-,-,2.401,515,1.886,228
+26,Mar del Plata,-,-,-,-,-,-,-,-,1.209,256,953,31
+27,Misiones,-,-,-,-,-,-,-,-,2.632,817,1.815,79
+28,Moreno,-,-,-,-,278,112,166,0,697,274,423,0
+29,Nordeste,837,212,625,39,1.034,209,825,59,-,-,-,-
+30,Noroeste de la PBA,-,-,-,-,-,-,-,-,-,-,-,-
+31,Oeste,-,-,-,-,-,-,-,-,-,-,-,-
+32,Patagonia Austral,-,-,-,-,-,-,-,-,701,330,371,0
+33,Patagonia S. J. Bosco,-,-,-,-,-,-,-,-,411,66,345,7
+34,Quilmes,-,-,-,-,-,-,-,-,1.425,397,1.028,62
+35,Río Cuarto,-,-,-,-,-,-,-,-,-,-,-,-
+36,Río Negro,411,176,235,8,-,-,-,-,226,80,146,1
+37,Rosario,70,26,44,8,-,-,-,-,1.971,432,1.539,119
+38,Salta,-,-,-,-,-,-,-,-,274,51,223,7
+39,San Juan,-,-,-,-,-,-,-,-,1.082,179,903,32
+40,San Luis,-,-,-,-,-,-,-,-,206,34,172,13
+41,San Martín,-,-,-,-,-,-,-,-,677,193,484,16
+42,Santiago del Estero,-,-,-,-,-,-,-,-,800,155,645,47
+43,Sur,-,-,-,-,-,-,-,-,-,-,-,-
+44,Tecnológica Nacional,-,-,-,-,-,-,-,-,-,-,-,-
+45,Tierra del Fuego,-,-,-,-,-,-,-,-,82,82,-,-
+46,Tres de Febrero,256,159,97,6,-,-,-,-,-,-,-,-
+47,Tucumán,-,-,-,-,-,-,-,-,1.849,533,1.316,23
+48,Villa María,-,-,-,-,-,-,-,-,529,180,349,42
+49,Villa Mercedes,-,-,-,-,-,-,-,-,-,-,-,-
+50,Total Institutos Universitarios,2.501,1.008,1.493,268,1.478,201,1.277,151,62,0,62,17
+51,Aeronáutico,-,-,-,-,1.478,201,1.277,151,-,-,-,-
+52,Instituto Univ. del Ejército,-,-,-,-,-,-,-,-,-,-,-,-
+53,Gendarmería,1.056,347,709,168,-,-,-,-,-,-,-,-
+54,IUNA,-,-,-,-,-,-,-,-,-,-,-,-
+55,Naval,-,-,-,-,-,-,-,-,-,-,-,-
+56,Policía Federal Argentina,1.445,661,784,100,-,-,-,-,62,0,62,17
+57,Seguridad Marítima,-,-,-,-,-,-,-,-,-,-,-,-
+58,Total Universidad Provincial,1.830,501,1.329,72,-,-,-,-,203,44,159,5
+59,Autónoma de Entre Ríos,1.830,501,1.329,72,-,-,-,-,203,44,159,5
